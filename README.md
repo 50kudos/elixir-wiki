@@ -1,8 +1,6 @@
 # elixir-wiki
-(My) opinion based best-practices wiki
 
-
-## Build, release and deployment  
+### Build, release and deployment  
 
 **Build and release:** [distillery](https://github.com/bitwalker/distillery)  
 **Deployment:** [edilivery](https://github.com/boldpoker/edeliver)
