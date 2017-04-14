@@ -66,8 +66,8 @@
     * `mix edeliver start production`
 
 #### Regular release flow (No hot code reloading)
-  * For non-feature release, run `mix edeliver build release --increment-version=patch`
+  * For non-feature(e.g. bug and chore) release, run `mix edeliver build release --increment-version=patch`
   * For feature release, run `mix edeliver build release --increment-version=minor`
-  * For epic feature (this should be rarely the case), run `mix edeliver build release --increment-version=major`
+  * For epic feature (a bunch of dependent features), run `mix edeliver build release --increment-version=major`
   * `mix edeliver deploy release to production`
   * `mix edeliver restart production`
