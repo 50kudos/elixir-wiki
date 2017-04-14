@@ -1,3 +1,4 @@
+```ascii
 +----------------+        +----------------+
 | Ecto.Changeset |        |      Repo      |
 +----------------+        +----------------+    (struct_or_changeset)
@@ -14,3 +15,4 @@
    | Ecto.Schema +--+     |update_all, etc |    (queryable)
    +-------------+        +----------------+
       (struct)
+```
