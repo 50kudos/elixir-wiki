@@ -4,7 +4,7 @@
   * [Add edeliver and distillery to mix deps](https://github.com/boldpoker/edeliver#quick-start)
   * `mix do deps.get, compile`
   * `mix release.init`
-  * [Create required configuration for edeliver **.deliver/config**](https://github.com/50kudos/elixir-wiki/blob/master/.deliver/config)
+  * [Create required configuration for edeliver **.deliver/config**](https://github.com/50kudos/elixir-wiki/blob/master/deployment/.deliver/config)
     * <details>
       <summary>build_deps.sh</summary>
 
