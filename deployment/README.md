@@ -1,4 +1,5 @@
-## Deployment
+## Deployment (edeliver + distillery)
+
 #### Initial release
   * [Add edeliver and distillery to mix deps](https://github.com/boldpoker/edeliver#quick-start)
   * `mix do deps.get, compile`
