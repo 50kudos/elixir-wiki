@@ -1,11 +1,8 @@
 # elixir-wiki
 
-### Build, release and deployment  
+### Release and deployment  
 
-**Build and release:** [distillery](https://github.com/bitwalker/distillery)  
-**Deployment:** [edilivery](https://github.com/boldpoker/edeliver)
+**Release:** [distillery](https://github.com/bitwalker/distillery)  
+**Deployment:** [edilivery](https://github.com/boldpoker/edeliver)  
+**Doc:** https://github.com/50kudos/elixir-wiki/tree/master/deployment
 
-references:  
-http://www.east5th.co/blog/2017/01/16/simplifying-elixir-releases-with-edeliver  
-http://www.east5th.co/blog/2017/01/23/upgrade-releases-with-edeliver  
-https://shovik.com/blog/6-deploying-phoenix-apps-for-rails-developers
